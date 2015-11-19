@@ -4,4 +4,4 @@ title: People
 permalink: /people/
 ---
 
-put junk here
+Name - Department - Expertise/interest
