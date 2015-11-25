@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Upcoming & SPECIAL!: An SDSS Perspective on Astronomical Survey (Michael Blanton)"
+title:  "SPECIAL!: An SDSS Perspective on Astronomical Survey (Michael Blanton)"
 date:   2015-11-24 11:45:00 -0700
 categories: jekyll update
 ---
