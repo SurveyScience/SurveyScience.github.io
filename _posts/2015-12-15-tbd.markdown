@@ -5,29 +5,3 @@ date:   2015-12-15 12:00:00 -0700
 categories: jekyll update
 ---
 
-*this is single star*   \*italics\*
-
-**this is double star**
-
-#single hash at front
-
-##double hash at front
-
-`this might be code`
-
-[this is an internal link](../../../../../../slides/StewardLunch_2015.pdf)
-
-[this is an external link](http://www.arizona.edu)
-
-This is a list:
-
-* item 1
-
-* item 2
-
-
-> block quote?
-
-```
-x=3
-```
