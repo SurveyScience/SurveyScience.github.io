@@ -5,7 +5,7 @@ date:   2015-12-15 12:00:00 -0700
 categories: jekyll update
 ---
 
-*this is single star*
+*this is single star*  \*italics\*
 
 **this is double star**
 
