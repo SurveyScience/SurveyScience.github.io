@@ -6,15 +6,18 @@ categories: jekyll update
 ---
 
 *this is single star*
+
 **this is double star**
-#this is single hash#
-##this is double hash#
+
 `this might be code`
 
 [this is an internal link](../../../../../../slides/StewardLunch_2015.pdf)
+
 [this is an external link](http://www.arizona.edu)
 
 This is a list:
+
 * item 1
+
 * item 2
 
