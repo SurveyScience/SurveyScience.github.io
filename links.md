@@ -14,7 +14,11 @@ The [LSST Software Stack](http://dm.lsst.org/) and how to [get started](https://
 [LSST Simulations](https://confluence.lsstcorp.org/display/SIM/LSST+Simulation+Framework) including downloadable [OpSim runs](https://confluence.lsstcorp.org/display/SIM/OpSim+Datasets+for+Cadence+Workshop+LSST2015).
 
 Some LSST "must reads":
+
 - The [Science Book](http://lsst.org/content/lsst-science-book)
+- 
 - The [LSST summary document](http://arxiv.org/pdf/0805.2366.pdf)
+- 
 - The [Science Requirements Document](http://lsst.org/scientists/publications/science-requirements-document)
-- The [Data Products Definition documegt](http://lsst.org/content/data-products-definition-document)
+- 
+- The [Data Products Definition document](http://lsst.org/content/data-products-definition-document)
