@@ -4,4 +4,4 @@ title: Glossary
 permalink: /glossary/
 ---
 
-put junk here
+Glossary of commonly used terms TBD
