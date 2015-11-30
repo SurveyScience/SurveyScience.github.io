@@ -23,5 +23,14 @@ See this [page](https://help.github.com/articles/markdown-basics/).
 
 Note one thing, the \# behaves differently: for each \# you add at the beginning of a block of consecutive text makes the text one font size larger than the default.
 
+##How to add people's slides
+
+1. Clone the repo (if you haven't already) by typing `git clone https://github.com/SurveyScience/SurveyScience.github.io.git` in a terminal
+2. Copy the slides (pdf format preferred) into the `slides` directory
+3. Navigate to the root directory of your local copy of the repo and type `git add [slides_filename.pdf]`
+4. Now type `git commit -a -m "Adding [someone's] slides"`
+5. Push the changes back to the remote repository: `git push origin master`. You will be asked for your github username and password. Note you may have to do a `git pull` first if your local copy of the repository isn't up to date.
+6. Add a link to these slides within the corresponding post in the `_posts` directory. In the `.markdown` file the link should probably look like this: `[link text](../../../../../../slides/slides.pdf]`
+
 
 ##How to add a person to the people page
