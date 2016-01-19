@@ -9,7 +9,7 @@ This can be done from **entirely** within the github web interface!
 3. Click on `Raw` to view the actual file contents.
 4. Copy the preamble (between the `---`'s) at the top of the page.
 5. Click back twice to get back to the `_posts` directory.
-6. Click on `+` sign after `SurveyScience.github.io/_posts/` to create a new file.
+6. Click on `+` sign or `New File` after `SurveyScience.github.io/_posts/` to create a new file.
 7. Type filename in the box after `SurveyScience.github.io/_posts/`. The filename **must** have the format: <pre>YYYY-MM-DD-<i>optional-text</i>.markdown</pre> where the date must be the date of the Survey Science lunch the post is referring to.
 8. Paste the copied preamble into the file and edit the title line to be the subject of the Survey Science lunch, and the date line to be the date of the Survey Science lunch.
 9. Type details e.g. the talk title and abstract below the lower set of `---`. Formatting can be applied by writing in markdown (see below).
