@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Upcoming: Ben Weiner"
+title:  "Development of the Arizona Robotic Telescope Network (Ben Weiner)"
 date:   2016-01-19 12:00:00 -0700
 categories: jekyll update
 ---
