@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Upcoming: TBC, note room change N505"
-date:   2016-02-02 12:00:00 -0700
-categories: jekyll update
----
-
-
