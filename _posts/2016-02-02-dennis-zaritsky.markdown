@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Upcoming: Dennis Zaritsky Double Bill, note room change N505"
+title:  "Dennis Zaritsky Double Bill, note room change N505"
 date:   2016-02-02 12:00:00 -0700
 categories: jekyll update
 ---
