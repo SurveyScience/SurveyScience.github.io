@@ -4,3 +4,7 @@ title:  "Upcoming: DECals (Arjun Dey)"
 date:   2016-02-16 12:00:00 -0700
 categories: jekyll update
 ---
+
+The Legacy Survey: Imaging the Extragalactic Sky with DECam and Mosaic3
+
+The Dark Energy Camera and Mosaic3 z-band Legacy Surveys are jointly covering 14,000 sq deg of extragalactic sky in preparation for the Dark Energy Spectroscopic Instrument surveys. I will briefly describe the strategies being developed to deal with the observing, reduction and analyses of the data. Since it will be a miracle if I have a real talk by tomorrow, this may be an informal discussion where kibbutzing is welcome.
