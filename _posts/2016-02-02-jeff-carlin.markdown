@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Upcoming: Near-Field Cosmology with Subaru/HSC (Jeff Carlin)"
+title:  "Near-Field Cosmology with Subaru/HSC (Jeff Carlin)"
 date:   2016-03-29 12:00:00 -0700
 categories: jekyll update
 ---
